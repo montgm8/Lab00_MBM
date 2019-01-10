@@ -1,0 +1,25 @@
+
+public class Circle {
+
+	private double radius;
+	
+	
+	
+	public Circle() {
+		
+	}//end empty argument constructor
+	
+	
+	
+	public Circle(double radius) {
+		
+	}//end preferred constructor
+	
+	
+	
+	public double calculateArea() {
+		
+		return 0.0;
+	}//end calculateArea
+	
+}//end class

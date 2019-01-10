@@ -1,0 +1,15 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello!");
+		
+		Circle c = new Circle();
+		System.out.println(c.toString());
+		
+		Circle c2 = new Circle(2.3);
+		
+	}//end main
+
+}//end class
